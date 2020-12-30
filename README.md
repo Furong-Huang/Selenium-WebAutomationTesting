@@ -1,8 +1,6 @@
 My UI Automation Test Suite work
 
-Web UI Automation testing framework is developed by free version of Microsoft Visual Studio Community 2017 Version 15.9.19. It can be downloaded from my google drive as below link.
-
-https://drive.google.com/file/d/1GzpCtZ_TqVFDRsExp8f7uOqeeqh2TGzd/view?usp=sharing
+Web UI Automation testing framework is developed by free version of Microsoft Visual Studio Community 2017 Version 15.9.19. 
 
 Installed NuGet:
 
